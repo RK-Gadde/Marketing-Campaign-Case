@@ -1,6 +1,6 @@
 ## Marketing campaign for a Portugese bank - Application of machine learning models in python to boost marketing campaign ROI
 
-Please click on the Bank Marketing Campaign - Paul - Final.ipynb file above for more detailed analysis using python
+Please click on the Bank Marketing Campaign-RK-Final.ipynb file above for more detailed analysis using python
 
 Bank Marketing Campaign (aplication of analytics and machine Learning models to improve marketing campaign ROI
 
@@ -24,9 +24,10 @@ The best machine learning model identifies the subset of people with high probab
 
 Note: The test set is the out of bag sample that is a new data set and has not been used to train the machine learning models.  
 
-Detailed analysis is provided in Bank Marketing Campaign - Paul - Final.ipynb file (in the githib repository)
+Detailed analysis is provided in Bank Marketing Campaign-RK-Final.ipynb file (in the githib repository)
 
 ### Average response rate (overall): 
+
 
 Overall distribution of campaign reponse in the original datset:
 
